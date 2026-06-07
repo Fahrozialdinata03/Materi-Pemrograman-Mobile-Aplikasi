@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pretes Akmal</string>
+    <string name="button_list_students">Daftar Mahasiswa</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_update">Update</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_name">Nama lengkap</string>
+    <string name="error_nim_empty">Error: Nim harus diisi!</string>
+    <string name="error_name_empty">Error: Nama harus diisi!</string>
+    <string name="save_success">Simpan berhasil!</string>
+    <string name="delete_confirm_title">Konfirmasi hapus</string>
+    <string name="delete_confirm_message">Apakah yakin akan dihapus?</string>
+    <string name="delete_positive_button">YA</string>
+    <string name="delete_negative_button">TIDAK</string>
+    <string name="delete_success">Hapus berhasil!</string>
+    <string name="update_success">Updated berhasil!</string>
+    <string name="placeholder_nim">1502023</string> <!-- Tambahan baru -->
+    <string name="placeholder_name">Fikrul Ilmi</string> <!-- Tambahan baru untuk konsistensi -->
+    <string name="button_edit">Edit</string> <!-- Tambahan baru -->
+    <string name="button_delete">Delete</string> <!-- Tambahan baru -->
+</resources>

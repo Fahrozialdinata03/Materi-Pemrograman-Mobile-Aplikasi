@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS Fahrozi Aldinata</string>
+    <string name="hint_input">Masukkan data di sini</string>
+    <string name="btn_simpan">Simpan Data</string>
+    <string name="belum_input">Belum Input Data</string>
+    <string name="hasil_data">Data:\n1. %1$s</string>
+</resources>

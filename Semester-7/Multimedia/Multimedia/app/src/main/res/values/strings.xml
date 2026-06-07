@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultimediaFahrozi</string>
+    <string name="profile_desc">Gambar Profil</string>
+    <string name="play_audio">Play Audio (res/raw)</string>
+    <string name="stop_audio">Stop Audio</string>
+    <string name="pick_audio">Pilih Audio dari Penyimpanan</string>
+    <string name="pick_video">Pilih Video dari Penyimpanan</string>
+</resources>

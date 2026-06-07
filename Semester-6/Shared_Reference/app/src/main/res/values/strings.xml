@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Reference Akmal</string>
+    <string name="hint_name">Masukkan nama</string>
+    <string name="btn_save">Simpan</string>
+    <string name="text_output">Nama Anda akan muncul di sini</string>
+    <string name="hello_name">Halo, %1$s</string>
+    <string name="no_name">Belum ada nama</string>
+</resources>

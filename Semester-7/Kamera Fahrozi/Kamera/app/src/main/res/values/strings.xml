@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kamera Fahrozi</string>
+    <string name="btn_ambil_foto">Ambil Foto</string>
+    <string name="preview_foto">Preview Foto</string>
+</resources>

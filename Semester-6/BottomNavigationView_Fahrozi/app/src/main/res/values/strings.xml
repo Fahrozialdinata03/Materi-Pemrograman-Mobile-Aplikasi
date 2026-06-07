@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottom Navigation View Fahrozi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="home">Home</string>
+        <string name="dashboard">Dashboard</string>
+        <string name="notifications">Notifications</string>
+    <string name="hello_Home">This is Home Fragment</string>
+    <string name="hello_Dashboard_fragment">This is Dashboard Fragment</string>
+    <string name="hello_Notification_fragment">This is Notification Fragment</string>
+    </resources>

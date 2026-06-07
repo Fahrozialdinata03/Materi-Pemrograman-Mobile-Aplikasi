@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#f2f2f2">
+
+    <!-- Display hasil/input -->
+    <TextView
+        android:id="@+id/display"
+        android:layout_width="365dp"
+        android:layout_height="80dp"
+        android:background="#ffffff"
+        android:gravity="end|center_vertical"
+        android:padding="16dp"
+        android:text="@string/display_default"
+        android:textColor="#000000"
+        android:textSize="32sp" />
+
+    <!-- Grid tombol kalkulator -->
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="394dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:alignmentMode="alignMargins"
+        android:columnCount="4"
+        android:rowCount="5"
+        android:useDefaultMargins="true">
+
+        <!-- Baris 1 -->
+        <Button
+            android:id="@+id/btnC"
+            android:text="@string/btn_c" />
+
+        <Button
+            android:id="@+id/btnDel"
+            android:text="@string/btn_delete" />
+
+        <Button
+            android:id="@+id/btnPersen"
+            android:text="@string/btn_percent" />
+
+        <Button
+            android:id="@+id/btnBagi"
+            android:text="@string/btn_divide" />
+
+        <!-- Baris 2 -->
+        <Button
+            android:id="@+id/btn7"
+            android:text="@string/btn_7" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:text="@string/btn_8" />
+
+        <Button
+            android:id="@+id/btn9"
+            android:text="@string/btn_9" />
+
+        <Button
+            android:id="@+id/btnKali"
+            android:text="@string/btn_multiply" />
+
+        <!-- Baris 3 -->
+        <Button
+            android:id="@+id/btn4"
+            android:text="@string/btn_4" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:text="@string/btn_5" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:text="@string/btn_6" />
+
+        <Button
+            android:id="@+id/btnKurang"
+            android:text="@string/btn_subtract" />
+
+        <!-- Baris 4 -->
+        <Button
+            android:id="@+id/btn1"
+            android:text="@string/btn_1" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:text="@string/btn_2" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:text="@string/btn_3" />
+
+        <Button
+            android:id="@+id/btnTambah"
+            android:text="@string/btn_add" />
+
+        <!-- Baris 5 -->
+        <Button
+            android:id="@+id/btnAkar"
+            android:text="@string/btn_root" />
+
+        <Button
+            android:id="@+id/btn0"
+            android:text="@string/btn_0" />
+
+        <Button
+            android:id="@+id/btnKoma"
+            android:text="@string/btn_comma" />
+
+        <Button
+            android:id="@+id/btnSamaDengan"
+            android:text="@string/btn_equal" />
+    </GridLayout>
+
+</LinearLayout>

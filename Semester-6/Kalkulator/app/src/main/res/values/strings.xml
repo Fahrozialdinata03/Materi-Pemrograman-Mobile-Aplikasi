@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kalkulator Fahrozi</string>
+    <string name="display_default">0</string>
+    <string name="btn_c">C</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">x</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_comma">,</string>
+    <string name="btn_root">√</string>
+    <string name="btn_7">7</string> <!-- Added numeric values as strings -->
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_0">0</string>
+    <string name="operator_display">%1$s %2$s</string>
+    <string name="operation_result_format">%1$s %2$s %3$s = %4$s</string>
+    <string name="error_divide_by_zero">Error: ÷0</string>
+
+</resources>

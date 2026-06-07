@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS 22S03 Fahrozi Aldinata</string>
+    <string name="uas">UAS</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="username_anda">Username Anda :</string>
+    <string name="password_anda">Password Anda :</string>
+</resources>

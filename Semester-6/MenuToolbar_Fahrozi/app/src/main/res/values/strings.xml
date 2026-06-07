@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Toolbar Akmal</string>
+    <string name="toolbar_title">Menu Toolbar App</string>
+    <string name="status_placeholder">Status Akan Tampil di Sini</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="status_home">Home diklik</string>
+    <string name="status_profile">Profile diklik</string>
+    <string name="status_settings">Settings diklik</string>
+</resources>

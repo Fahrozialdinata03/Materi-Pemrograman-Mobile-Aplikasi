@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notifikasi Akmal</string>
+    <string name="title_notification">Notifikasi</string>
+    <string name="button_show_notification">Tampilkan Notifikasi</string>
+    <string name="button_reply_notification">Notifikasi Balas</string>
+    <string name="notification_title">Hai Akmal! Ayo Login Valo</string>
+    <string name="notification_text">Sudah lama kamu tidak login. Ayo Login!!.</string>
+    <string name="reply_label">Balas pesan</string>
+    <string name="toast_reply_received">Balasan diterima: %1$s</string>
+    <string name="notification_reply_title">Pesan Masuk</string>
+    <string name="notification_reply_text">Kamu punya pesan baru</string>
+    <string name="interactive_notification">Notifikasi interaktif</string>
+    <string name="button_show_lock_screen_notification">Tampilkan Notifikasi di Lock Screen</string>
+    <string name="lock_notification">Notifikasi Lock Screen Fahrozi</string>
+    <string name="lock_screen_notification_title">Notifikasi Lock Screen</string>
+    <string name="lock_screen_notification_text">Notifikasi ini muncul di layar kunci</string>
+    <string name="lockscreen_title">Notifikasi Lock Screen Fahrozi</string>
+    <string name="lockscreen_text">Ini notifikasi muncul di layar terkunci</string>
+    <string name="toast_permission_denied">Izinkan notifikasi melalui Pengaturan Aplikasi</string>
+</resources>

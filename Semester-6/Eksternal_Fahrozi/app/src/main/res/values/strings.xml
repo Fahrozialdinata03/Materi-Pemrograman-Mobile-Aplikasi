@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eksternal Akmal</string>
+    <string name="title_text">Silahkan input teks dibawah</string>
+    <string name="button_save">SAVE</string>
+    <string name="button_read">READ</string>
+    <string name="save_success">File berhasil disimpan ke penyimpanan eksternal.</string>
+    <string name="save_failed">Gagal menyimpan file!</string>
+    <string name="read_success">Isi file yang tersimpan:</string>
+    <string name="read_failed">Gagal membaca file!</string>
+    <string name="storage_not_available">Penyimpanan eksternal tidak tersedia atau hanya-baca.</string>
+</resources>

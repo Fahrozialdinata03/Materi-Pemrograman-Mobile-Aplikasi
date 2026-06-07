@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Intent</string>
+    <string name="hint_username">Masukkan Username</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="btn_login">Login</string>
+    <string name="label_username">Username:</string>
+    <string name="label_password">Password:</string>
+    <string name="username_label">Username: %s</string>
+    <string name="password_label">Password: %s</string>
+    <string name="welcome_message">Selamat datang</string>
+</resources>

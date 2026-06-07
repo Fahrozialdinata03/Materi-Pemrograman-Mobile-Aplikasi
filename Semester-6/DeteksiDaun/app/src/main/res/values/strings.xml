@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">Deteksi Daun Cabai</string>
+        <string name="button_take_photo">Foto</string>
+        <string name="toast_model_load_failed">Gagal memuat model</string>
+        <string name="toast_permissions_denied">Izin tidak diberikan</string>
+        <string name="toast_photo_saved">Foto tersimpan di %1$s</string>
+        <string name="toast_photo_failed">Gagal mengambil foto: %1$s</string>
+        <string name="toast_video_saved">Video tersimpan di %1$s</string>
+        <string name="button_record">Rekam</string>
+</resources>
